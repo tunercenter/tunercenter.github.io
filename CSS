@@ -4,8 +4,8 @@ body {
    font-size: 20px;
    background-color: #69cc2a;
 div#wrapperHeader {
-   width:80%;
-   height:300px;
+   width:50%;
+   height:200px;
    background:url(https://www.experiencedays.co.uk/images/Toyota-Supra-driving-experience-in-cotswold-big-1920x1080-resize.JPG);
    text-align:center;
 }
