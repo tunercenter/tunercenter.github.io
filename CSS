@@ -3,3 +3,9 @@ body {
    font-family: "CloneWars RC2";
    font-size: 20px;
    background-color: #69cc2a;
+div#wrapperHeader {
+   width:80%;
+   height:300px;
+   background:url(https://www.experiencedays.co.uk/images/Toyota-Supra-driving-experience-in-cotswold-big-1920x1080-resize.JPG);
+   text-align:center;
+}
